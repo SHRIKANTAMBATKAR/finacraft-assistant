@@ -64,4 +64,10 @@ Navigate to http://localhost:3000/ to use the application.
 
 
 🌍 Live Demo
-![Screenshot 2025-03-02 155652](https://github.com/user-attachments/assets/28153800-b89f-4e91-8672-6dd7a09ef4fd)
+![Screenshot 2025-03-02 155439](https://github.com/user-attachments/assets/98ac4dad-a3a7-4f6d-92f2-d196e8cd05a4)
+![Screenshot 2025-03-02 155526](https://github.com/user-attachments/assets/4fbc4587-3646-4bd5-9120-184a20a93066)
+![Screenshot 2025-03-02 155559](https://github.com/user-attachments/assets/eb2bd12e-26e0-4516-b1bd-6633eaa81181)
+![Screenshot 2025-03-02 155622](https://github.com/user-attachments/assets/c2414fad-410a-4d20-a605-c609392283a2)
+![Screenshot 2025-03-02 155652](https://github.com/user-attachments/assets/31252d25-3740-4973-bd60-66724a56cf49)
+
+
