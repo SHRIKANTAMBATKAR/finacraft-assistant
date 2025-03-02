@@ -6,7 +6,15 @@ The Smart Budget Recommendation System is a responsive web application built wit
 
 🚀 Features
 
-✅ User Authentication (Firebase/Auth0)✅ Expense & Income Tracking with intuitive UI✅ Category-Based Expense Management✅ Real-Time Data Visualization (Charts & Graphs)✅ Budget Allocation & Recommendations✅ Smart Alerts & Notifications (Overspending alerts)✅ Multi-Currency Support & Localization✅ Export Reports (Download as CSV/PDF)✅ Dark Mode for Enhanced User Experience
+✅ User Authentication (Firebase/Auth0)
+✅ Expense & Income Tracking with intuitive UI
+✅ Category-Based Expense Management
+✅ Real-Time Data Visualization (Charts & Graphs)
+✅ Budget Allocation & Recommendations
+✅ Smart Alerts & Notifications (Overspending alerts)
+✅ Multi-Currency Support & Localization
+✅ Export Reports (Download as CSV/PDF)
+✅ Dark Mode for Enhanced User Experience
 
 🏗️ Tech Stack
 
@@ -56,5 +64,4 @@ Navigate to http://localhost:3000/ to use the application.
 
 
 🌍 Live Demo
-
-🔗 [Add Live Link Here]
+![Screenshot 2025-03-02 155652](https://github.com/user-attachments/assets/28153800-b89f-4e91-8672-6dd7a09ef4fd)
